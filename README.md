@@ -2,7 +2,7 @@
 
 A **colorful, animated, and fully responsive** todo list application with interactive features and local storage persistence.
 
-### 💻 Live Demo :
+### 💻 Live Demo : https://iamarpisaha.github.io/to-do-list/
 
 ![Todo List Screenshot](images/screenshot1.png)  
 ![Todo List Screenshot](images/screenshot2.png)  
@@ -94,4 +94,4 @@ This project is not licensed under the MIT License.
 ---
 
 Made with ❤️ by ARPI SAHA  
-🔗 [Live Demo](#) | 💻 [GitHub](#) | 🐦 [Twitter](#)
+🔗 https://iamarpisaha.github.io/to-do-list/(#) | 💻 https://github.com/iamarpisaha/to-do-list(#)
